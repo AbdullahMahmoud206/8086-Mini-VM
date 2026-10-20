@@ -1,4 +1,4 @@
-# MiniVM-16
+# 8086-Mini-VM
 
 **A Custom 16-bit Mini Virtual Machine Implemented in 8086 Assembly**
 
